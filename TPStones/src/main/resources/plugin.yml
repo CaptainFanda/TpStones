@@ -1,0 +1,8 @@
+name: TPStones
+version: '1.1'
+main: PolitGame.CaptainFanda.TPStones
+api-version: '1.21'
+
+commands:
+  tpw:
+    aliases: [tpway, teleportWay, way]
